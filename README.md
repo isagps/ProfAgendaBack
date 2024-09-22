@@ -28,7 +28,7 @@ Antes de começar, certifique-se de que seu ambiente atenda aos seguintes requis
 
 O frontend deste projeto foi desenvolvido separadamente e pode ser acessado através do seguinte repositório:
 
-- [Frontend ProfAgenda](https://github.com/seu-usuario/profAgenda-frontend.git)
+- [Frontend ProfAgenda](https://github.com/isagps/ProfAgendaFront)
 
 ## Instruções de Instalação
 
@@ -39,8 +39,7 @@ Siga os passos abaixo para configurar e rodar o projeto em sua máquina local.
 Clone o repositório do projeto e navegue até o diretório do backend:
 
 ```bash
-git clone https://github.com/seu-usuario/profAgenda.git
-cd profAgenda/back
+git clone https://github.com/isagps/ProfAgendaBack.git
 ```
 
 ### 2. Criando e Ativando o Ambiente Virtual

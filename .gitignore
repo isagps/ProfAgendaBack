@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+*.env
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# Logs
+*.log
+*.out
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLAlchemy migration files (if using Alembic)
+migrations/
+
+# System specific files
+*.swp
